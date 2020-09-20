@@ -1,0 +1,48 @@
+{
+  "name": "bootstrap-5-sass-gulp-4-boilerplate",
+  "version": "1.0.0",
+  "description": "A Bootstrap 5.0.0-alpha1 boilerplate with sass and gulp 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayeshLab/bootstrap-5-sass-gulp-4-boilerplate.git"
+  },
+  "keywords": [
+    "bootstrap 5",
+    "sass",
+    "scss",
+    "gulp",
+    "gulp 4",
+    "bootstrap icons",
+    "boilerplate",
+    "stater"
+  ],
+  "author": "Jayesh Vachhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayeshLab/bootstrap-5-sass-gulp-4-boilerplate/issues"
+  },
+  "homepage": "https://github.com/JayeshLab/bootstrap-5-sass-gulp-4-boilerplate#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0",
+    "popper.js": "1.16.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "merge-stream": "^1.0.1"
+  }
+}
