@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-5-sass-gulp-4-boilerplate",
-  "version": "1.0.0",
-  "description": "A Bootstrap 5.0.0-alpha1 boilerplate with sass and gulp 4",
+  "version": "1.0.1",
+  "description": "A Bootstrap 5.0.0-alpha2 boilerplate with sass and gulp 4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/JayeshLab/bootstrap-5-sass-gulp-4-boilerplate#readme",
   "dependencies": {
-    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap": "^5.0.0-alpha2",
     "bootstrap-icons": "^1.0.0",
     "popper.js": "1.16.0"
   },

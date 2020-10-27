@@ -1,5 +1,5 @@
 # Bootstrap 5 boilerplate with sass and gulp 4
-A Bootstrap v5.0.0-alpha1 boilerplate with bootstrap-icons, sass, gulp 4 tasks, browserSync (with hot-reloading). 
+A Bootstrap v5.0.0-alpha2 boilerplate with bootstrap-icons, sass, gulp 4 tasks, browserSync (with hot-reloading). 
 You can override bootstrap sass variables by placing those variables in `bootstrap-5-sass-gulp-4-boilerplate/assets/scss/_bootstrap_variable_overrides.scss`
 
 ## Pre-requisite
