@@ -67,7 +67,7 @@ gulp.task('scss', gulp.series('bootstrap:scss', function compileScss() {
 
 // Minify CSS
 gulp.task('css:minify', gulp.series('scss', function cssMinify() {
-  return gulp.src("./assets/css/app.css")
+  return gulp.src("./assets/css/*.css")
     .pipe(cleanCSS())
     .pipe(rename({
       suffix: '.min'
