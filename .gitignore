@@ -2,3 +2,8 @@ package-lock.json
 *.iml
 /.idea
 /node_modules
+dist
+/assets/fonts
+/assets/scss/bootstrap
+/assets/js/vendor
+/assets/css/app.css
