@@ -18,7 +18,7 @@ Install Gulp cli
 `git clone https://github.com/JayeshLab/bootstrap-5-sass-gulp-4-boilerplate.git`
 
 2. Change directory:
-`cd bootstrap-5-sass-gulp-5-boilerplate`
+`cd bootstrap-5-sass-gulp-4-boilerplate`
     
 3. Install all dependencies and libraries:
    `npm install`
