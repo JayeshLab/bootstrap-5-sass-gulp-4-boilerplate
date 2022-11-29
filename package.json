@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-5-sass-gulp-4-boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Bootstrap 5.0.2 boilerplate with sass and gulp 4",
   "main": "index.js",
   "scripts": {
@@ -27,12 +27,12 @@
   },
   "homepage": "https://github.com/JayeshLab/bootstrap-5-sass-gulp-4-boilerplate#readme",
   "dependencies": {
-    "@popperjs/core": "^2.9.3",
-    "bootstrap": "^5.0.2",
-    "bootstrap-icons": "^1.7.2"
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "del": "^3.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
