@@ -3,7 +3,7 @@ package-lock.json
 /.idea
 /node_modules
 dist
-/assets/fonts
-/assets/scss/bootstrap
-/assets/js/vendor
-/assets/css/app.css
+/src/assets/fonts
+/src/assets/scss/bootstrap
+/src/assets/js/vendor
+/src/assets/css/app.css
