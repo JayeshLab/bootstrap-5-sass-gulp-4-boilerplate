@@ -1,6 +1,6 @@
 # Bootstrap 5 boilerplate with sass and gulp 4
-A Bootstrap v5.2.3 boilerplate with bootstrap-icons(1,800+ icons), sass, gulp 4 tasks, browserSync (with hot-reloading). 
-You can override bootstrap sass variables by placing those variables in `bootstrap-5-sass-gulp-4-boilerplate/assets/scss/_bootstrap_variable_overrides.scss`
+A Bootstrap v5.3.0 boilerplate with bootstrap-icons(1,800+ icons), sass, gulp 4 tasks, browserSync (with hot-reloading). 
+You can override bootstrap sass variables by placing those variables in `bootstrap-5-sass-gulp-4-boilerplate/src/assets/scss/_bootstrap_variable_overrides.scss`
 
 ## Pre-requisite
 - [Node.js](https://nodejs.org/en/download/ "Node Js")
