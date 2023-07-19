@@ -2,7 +2,7 @@
 @import "bootstrap_variable_overrides";
 
 // Bootstrap and its default variables
-@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
 
 // Your style
 @import "variables";
@@ -32,6 +32,11 @@ body {
 .carousel {
   margin-bottom: 4rem;
 }
+.carousel-indicators {
+  li::marker {
+    font-size: 0;
+  }
+}
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
@@ -50,7 +55,6 @@ body {
   height: 32rem;
 }
 
-
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
@@ -64,11 +68,10 @@ body {
 }
 /* rtl:begin:ignore */
 .marketing .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
 }
 /* rtl:end:ignore */
-
 
 /* Featurettes
 ------------------------- */
@@ -82,9 +85,8 @@ body {
   font-weight: 300;
   line-height: 1;
   /* rtl:remove */
-  letter-spacing: -.05rem;
+  letter-spacing: -0.05rem;
 }
-
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
@@ -107,4 +109,3 @@ body {
     margin-top: 7rem;
   }
 }
-
